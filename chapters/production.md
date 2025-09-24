@@ -44,7 +44,7 @@ The goal is always the same: move from dependency to self-sufficiency, one step 
 
 A cadre that depends on grocery stores is one bad harvest, one shipping delay, one economic shock away from hunger. True resilience begins with the ability to feed oneself.
 
-Staple crops—potatoes, beans, grains—must take precedence. They are the foundation of survival, providing the calories and nutrients needed to endure. While deep rooted perennials are potentially more resilient year over year, and they play a part in establishing long lived food systems, it might be a trap to over-focus on permaculture techniques or "food forest idealism". These methods, while laudable, are seldom sufficient to meet immediate caloric needs. A balance between long term planning and emergency preparedness is required.
+Staple crops like potatoes, beans, and grains must be prioritized for immediate survival needs. While perennial plants and permaculture offer long-term resilience, they often fail to meet urgent caloric demands. A balance between emergency preparedness and long-term planning is essential.
 
 Climate-resilient methods include greenhouses to extend growing seasons, drought-resistant crops to weather erratic rains, and rainwater harvesting to guard against dry spells. They buffer against climate unpredictability, and can facilitate significant northward expansion of food production.
 
