@@ -2,7 +2,7 @@
 
 At the heart of a resilient cadre lies a robust organizational structure designed for efficiency, adaptability, and comprehensive preparedness. This structure is built upon Four Pillars, the core committees: **Production**, **Procurement**, **Education**, and **Security**.
 
-Each committee operates with a degree of autonomy within its designated area, yet all are interconnected, forming a interconnected system that addresses the multifaceted challenges of building and maintaining resilience.
+Each committee operates with a degree of autonomy within its designated area, yet all are linked, forming a interconnected system that addresses the multifaceted challenges of building and maintaining resilience.
 
 This model draws from proven committee-based governance structures used in academia, government, and business. Committees enhance operational efficiency through task specialization and decentralized decision-making where appropriate. By delegating authority to discrete committees, the cadre reduces bureaucratic inertia and avoids the bottlenecks of centralized control, while maintaining cohesive, goal-directed action.
 
@@ -48,7 +48,7 @@ The Education committee is responsible for developing the community's skills and
 
 - Facilitate knowledge transfer through workshops, mentorships, and peer-to-peer exchange.
 
-- Identify skill gaps and develop training programs.
+- Identify skill gaps and develop appropriate training programs.
 
 - Manage training materials and learning resources.
 
@@ -98,9 +98,9 @@ Now that we have a vague overview of the committees, we have enough lingo to dis
 
 - **"Fully Employed"** – this is an organization that lives at the opposite extreme from Shared Nothing. All members "work" for the cadre full time in lieu of other employment. Other major services can be provided by the cadre as well.
 
-- **"Full Employment Seeking" **– represents a transitional state where a cadre is working towards the aspirational goal of full employment.
+- **"Full Employment Seeking"** – represents a transitional state where a cadre is working towards the aspirational goal of full employment.
 
-- "**Full Housing (Seeking)**" – a cadre where everyone lives in housing provided by the cadre (or working towards it).
+- "**Full Housing (Seeking)**" – a cadre where everyone lives in housing provided by the cadre (or working towards it) Basically, when a cadre decides to operate like a housing cooperative or land trust.
 
 ## Actionable Steps
 

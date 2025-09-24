@@ -45,4 +45,4 @@ A cadre's strength lies in its unwavering focus. By compartmentalizing political
 
 When in doubt, focus on building. The shared needs of shelter, safety, and food are the foundation. By deliberately designing for equity within that framework, cadres avoid divisive noise without repeating the exclusionary mistakes of failing systems.
 
-We may soon find that **there is no meaningful politics but resilience**. Not because other justice issues fade, but because without a foundation of survival, there is no ground left to fight on.
+We may soon find that **there is no meaningful politics but resilience**. Without a foundation of survival, there is no ground left to fight on.

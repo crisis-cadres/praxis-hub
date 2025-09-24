@@ -46,7 +46,7 @@ Each core committee and any specialized committees should keep their active memb
 
 ### 2. Structure Communication in Layers
 
-As Dunbar's work showed**,** our social networks are naturally layered. By structuring communication along these same lines (for example, committee representatives forming a "coordinating council"), groups can manage information flow and coordinate actions at scale without overwhelming individual cognitive capacities. This structure mirrors Dunbar's layers: a few intimate allies (committee chairs), around 15 close comrades (fellow committee members), about 50 reliable acquaintances (cross-committee contacts), and up to 150 members of the broader cadre.
+Dunbar's work also showed our social networks are naturally layered. By structuring communication along these same lines (for example, committee representatives forming a "coordinating council"), groups can manage information flow and coordinate actions at scale without overwhelming individual cognitive capacities. Layers might consist of a few intimate allies (committee chairs), around 15 close comrades (fellow committee members), about 50 reliable acquaintances (cross-committee contacts), and up to 150 members of the broader cadre.
 
 ### 3. Federate, Don't Centralize
 

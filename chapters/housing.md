@@ -75,7 +75,7 @@ The concepts of the agrihood extends far beyond simple subsistence; for a savvy 
 
 ## From Sanctuary to Strategy
 
-A cadre with a surplus of secure housing holds immense power. This surplus becomes a strategic tool for outreach, recruitment, and political action.
+A cadre with a surplus of secure housing holds immense power. This surplus becomes a strategic tool for outreach and recruitment.
 
 In line with the principle of Surplus as Recruitment, having more shelter capacity than immediately needed provides the ability to offer safe, temporary housing to allies displaced by personal crises or larger disasters. If someone is fleeing a crisis or disaster, offering them shelter within in a prepared community is the kind of direct, powerful organizing that grows a movement.
 

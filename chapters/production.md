@@ -44,9 +44,9 @@ The goal is always the same: move from dependency to self-sufficiency, one step 
 
 A cadre that depends on grocery stores is one bad harvest, one shipping delay, one economic shock away from hunger. True resilience begins with the ability to feed oneself.
 
-Staple crops—potatoes, beans, grains—must take precedence. They are the foundation of survival, providing the calories and nutrients needed to endure.
+Staple crops—potatoes, beans, grains—must take precedence. They are the foundation of survival, providing the calories and nutrients needed to endure. While deep rooted perennials are potentially more resilient year over year, and they play a part in establishing long lived food systems, it might be a trap to over-focus on permaculture techniques or "food forest idealism". These methods, while laudable, are seldom sufficient to meet immediate caloric needs. A balance between long term planning and emergency preparedness is required.
 
-Climate-resilient methods include greenhouses to extend growing seasons, drought-resistant crops to weather erratic rains, and rainwater harvesting to guard against dry spells. They buffer against climate unpredictability, extend growing seasons, and can facilitate significant northward expansion of food production.
+Climate-resilient methods include greenhouses to extend growing seasons, drought-resistant crops to weather erratic rains, and rainwater harvesting to guard against dry spells. They buffer against climate unpredictability, and can facilitate significant northward expansion of food production.
 
 Furthermore, initiatives like propagating and nursing plants or trees can enhance long-term food security and even generate income. Things like nut trees are in high demand, and their seeds can be purchased and germinated with sporadic work efforts, making for an ideal side project.
 
@@ -70,13 +70,13 @@ Where new materials are scarce, salvage becomes an art (with help from Procureme
 
 ### Shelter & Housing
 
-Housing instability kills resilience. This is perhaps more towards the full employment end of the Crisis Continuum, but a Procurement Audit will almost always reveal the lion's share of expenses for a cadre going to rent or mortgage.
-
-Low-cost building techniques like earthbag construction, straw bale walls, and timber framing—turn local materials into durable homes. Retrofitting existing structures can reinforce them against storms, fires, and power outages. And when disaster strikes, the ability to deploy emergency shelters can mean the difference between survival and suffering.
+We talked about housing, but instability here kills resilience. It's on the _full employment_ end of the Crisis Continuum, but a Procurement Audit will almost always reveal the lion's share of expenses for a cadre going to rent or mortgage.
 
 ### Energy & Utilities
 
-The modern world runs on a fragile web of centralized power. Decentralized energy reduces vulnerability. Solar panels on rooftops, micro-hydro systems in nearby streams, biogas digesters turning waste into fuel, all are viable options. But take care that manual backups are in place like hand pumps, wood stoves, and mechanical tools that can operate without electricity. Ensure a lack of energy does not present a single point of failure.
+The modern world runs on a fragile web of centralized power. Decentralized energy reduces vulnerability. Solar panels, micro-hydro, wind turbines, and biogas digesters all are viable options that fit well within the idea of appropriate production.
+
+At the same time, we must take care that manual backups are in place like hand pumps, wood stoves, and mechanical tools that can operate without electricity. Ensure a lack of energy does not present a single point of failure.
 
 ### Medicine & Hygiene
 

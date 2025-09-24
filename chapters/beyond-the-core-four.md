@@ -16,7 +16,7 @@ Here are some specialized committee areas that often emerge as a cadre develops:
 
 _Evolving from Education/Security_
 
-Focused on comprehensive well-being beyond basic first aid, this area covers medical preparedness (herbal medicine, crisis triage), mental resilience (peer support, stress management), preventative care (nutrition, fitness, hygiene), and disability/accessibility advocacy.
+Focused on comprehensive well-being beyond basic first aid and triage, this area covers medical preparedness like herbal medicine, mental resilience (peer support, stress management), preventative care (nutrition, fitness, hygiene), and disability/accessibility advocacy.
 
 ### Housing & Infrastructure
 
@@ -28,7 +28,7 @@ Secure, sustainable, and communal shelter solutions fall under this domain, incl
 
 _Evolving from Procurement_
 
-Ensuring mobility of people and goods while reducing fuel dependence involves bike/pedestrian networks, vehicle cooperatives (shared electric vehicles), supply route planning, and fuel reserve management.
+Ensuring mobility of people and goods while reducing fuel dependence. This involves vehicle cooperatives for things like shared electric bikes or cars and supply route planning.
 
 ### Communication & Technology
 
@@ -40,13 +40,13 @@ Reliable communication demands redundancy—mesh networks, radio, offline archiv
 
 _Evolving from Production_
 
-Healing and maintaining local ecosystems encompasses rewilding, water management (rain catchment, greywater systems), fire mitigation, and soil regeneration.
+Healing and maintaining local ecosystems encompasses rewilding, water management, fire mitigation, and soil regeneration.
 
 ### Hospitality & Integration
 
 _Offshoot of Education/Security_
 
-Managing interactions with newcomers and allies covers member onboarding, visitor protocols, refugee support, and cultural exchange. This committee could also organize resilience gatherings combining skill-sharing, barter fairs, community feasts, and cultural activities to foster community cohesion.
+Managing interactions with newcomers and allies covers member onboarding, visitor protocols, refugee support, and cultural exchange. This committee could also organize gatherings combining skill-sharing and community building.
 
 ### Scavenger & Salvage
 

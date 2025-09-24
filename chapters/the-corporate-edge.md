@@ -8,7 +8,7 @@ If you want to build something durable, don't call it a revolution, call it a bu
 
 ## When Formal Structures Become Strategic Assets
 
-In eras of decline, survival demands cunning as much as idealism. Traditional models of resistance like protest movements, the underground collectives, or tight-knit bands of activists, often prove fragile in such environments. Their informality makes them vulnerable. Their visibility makes them easy targets.
+In eras of decline, survival demands cunning as much as idealism. Traditional models of resistance like protest movements, underground collectives, or tight-knit bands of activists, often prove fragile in such environments. Their informality makes them vulnerable. Their visibility makes them easy targets.
 
 To those seeking autonomy, adopting a formal, legally recognized entity may seem paradoxical, even distasteful. We must look past this knee-jerk reaction. Paradox can be a weapon. A properly constructed company is dull on the surface, but meticulously engineered for resilience beneath. They can provide what radical collectives so often lack: durability, operational security, and the means to accumulate resources under the noses of those who would seize or suppress them.
 

@@ -18,7 +18,7 @@ In short, rumors like this persist not because people believe them, but because 
 
 This goes beyond harmless tribalism, and results in a slow-motion societal suicide. The fallout is inevitable. When communities incentivize false witnesses, they sever their own connection to reality. The lies start small but the habit metastasizes. Doubt spreads to previously apolitical topics like vaccines, election fraud, and even the shape of the earth. Eventually, the consequences become unavoidable. A society that tolerates "noble lies" will, in crisis, lose the ability to separate truth from fiction or strategy from superstition.
 
-This problem isn't getting any less serious as we continue along the crisis continuum. Increased scarcity will increase the likelihood of cults, scams, hate groups, and other yet to be seen but assuredly absurd formations, as people scramble to pinpoint some kind of meaning in the unraveling.
+This problem isn't getting any less serious as we continue along the crisis continuum. Increased scarcity will increase the likelihood of cults, scams, hate groups, and other yet to be seen but assuredly absurd formations, as people scramble to pinpoint some kind of meaning amidst the unraveling.
 
 ### Distorting Reality
 
