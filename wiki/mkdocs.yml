@@ -1,0 +1,35 @@
+site_name: Crisis Cadres
+site_url: https://crisis-cadres.com
+repo_url: https://github.com/crisis-cadres/praxis-hub
+repo_name: praxis-hub
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+  - scheme: slate
+    primary: orange
+    accent: indigo
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+  - scheme: default
+    primary: orange
+    accent: indigo
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+  features:
+  - navigation.top
+extra:
+  homepage: /
+extra_css:
+- assets/extra.css
+nav:
+- Home: index.md
+- The Core Philosophy: core-philosophy.md
+- The Four Pillars of Operations: four-pillars.md
+- Organizational Strategy and Growth: organizational-strategy.md
+- Tactics and Governance: tactics-governance.md
+- The Authors: salish-sea-cadre.md
