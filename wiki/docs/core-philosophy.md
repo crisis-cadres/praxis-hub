@@ -1,9 +1,9 @@
 # The Core Philosophy
 
-* Societal and climate collapse are inevitable, requiring organized, forward-looking groups to engineer community resilience against scarcity and disaster.
-* A realistic, pessimistic outlook on the environment should be used to motivate pragmatic, collective action rather than despair or climate idealism.
-* Groups must practice political compartmentalization by intentionally avoiding divisive partisan debates and focusing strictly on practical survival strategies.
-* An absolute commitment to reality and evidence-based decision-making is necessary to combat irrationality, superstition, and conspiratorial thinking.
+- Societal and climate collapse are inevitable, requiring organized, forward-looking groups to engineer community resilience against scarcity and disaster.
+- A realistic, pessimistic outlook on the environment should be used to motivate pragmatic, collective action rather than despair or climate idealism.
+- Groups must practice political compartmentalization by intentionally avoiding divisive partisan debates and focusing strictly on practical survival strategies.
+- An absolute commitment to reality and evidence-based decision-making is necessary to combat irrationality, superstition, and conspiratorial thinking.
 
 ---
 
