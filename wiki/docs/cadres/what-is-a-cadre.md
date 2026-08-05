@@ -1,0 +1,11 @@
+# What Is a Crisis Cadre
+
+- "Cadre" traditionally means a key individual or a trained core group; Crisis Cadres use the term for both, with context clarifying the meaning.
+- A cadre is a highly trained individual or a tightly coordinated group enabling resilient local action.
+- Cadres display leadership, expertise, situational awareness, and the discipline to stay composed in emergencies.
+- The core question of a Crisis Cadre: what are the most likely problems we will encounter, and what actions most increase group resilience against them?
+- Crisis Cadres are egalitarian enterprises that are united, productive, and ever-adapting to overcome adversity.
+
+---
+
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=What%20Is%20a%20Crisis%20Cadre)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/cadres/what-is-a-cadre.md)
