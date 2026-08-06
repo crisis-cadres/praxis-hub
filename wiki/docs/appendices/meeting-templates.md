@@ -5,7 +5,7 @@
 - New Resilience Project Proposal: structured presentation, debate, and approval of significant new projects.
 - Conflict Resolution and Mediation: a structured, non-adversarial process led by a trained [Education](../pillars/education/index.md) mediator.
 - Emergency Response Activation: immediate command-and-control deployment at the onset of a crisis.
-- [New Member Integration and Onboarding](../strategy/adding-members.md): welcoming new members and placing them in committees with a mentor.
+- [New Member Integration and Onboarding](../governance/adding-members.md): welcoming new members and placing them in committees with a mentor.
 - After-Action Review: a non-punitive debrief to identify lessons and improve future performance.
 - Quarterly Strategic Review: SWOT analysis to set clear priorities for the next quarter.
 - New Member Vetting and Vote: confidential consideration of a candidate for admission.

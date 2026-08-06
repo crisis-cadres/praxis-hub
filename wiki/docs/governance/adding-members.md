@@ -11,4 +11,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Adding%20Members)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/strategy/adding-members.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Adding%20Members)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/governance/adding-members.md)

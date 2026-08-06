@@ -9,4 +9,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Political%20Compartmentalization)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/cadres/compartmentalization.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Political%20Compartmentalization)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/strategy/compartmentalization.md)

@@ -9,4 +9,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=When%20Empires%20Fall)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/worldview/when-empires-fall.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=When%20Empires%20Fall)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/philosophy/when-empires-fall.md)

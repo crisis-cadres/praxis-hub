@@ -1,4 +1,4 @@
-# Governance
+# Governance Framework
 
 - Representatives and authority figures should be recallable, with the threshold for recall lower than that of nomination.
 - Distribute committee assignments evenly so no one is overloaded and no committee is empty.

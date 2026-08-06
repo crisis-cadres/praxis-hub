@@ -5,7 +5,7 @@
 - Small groups allow [trust to develop](../strategy/dunbars-number.md) gradually through shared work, creating natural opportunities for relationships.
 - Resilience building is actionable at the local level and needs no political consensus or institutional approval.
 - Over time, small networks grow, interlink, and form the foundation of a broader resilience strategy through [federation](../strategy/federation.md).
-- No one is truly [prepared alone](../worldview/individualist-illusion.md); cooperation is a lived reality, not an abstract ideal.
+- No one is truly [prepared alone](individualist-illusion.md); cooperation is a lived reality, not an abstract ideal.
 
 ---
 

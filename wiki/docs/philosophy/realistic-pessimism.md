@@ -7,7 +7,10 @@
 - Wars will intensify and consume more fossil fuels, and no technological fix will materialize in time.
 - Plan for every easily extractable drop of oil to be consumed, and for "successful" mitigations and efficiency gains to be undone or absorbed.
 - Climate-concerned groups risk wasting energy on [climate idealism](climate-idealism.md) rather than effective action.
-- The only realistic tool available is local adaptation, prioritizing survivability over sustainability.
+
+It is important to champion electrification and large-scale mitigation efforts, but also, assume global mitigation will not be achieved in any meaningful way.
+
+The only realistic tool available is local adaptation, prioritizing survivability over sustainability.
 
 ---
 

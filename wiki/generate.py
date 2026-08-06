@@ -42,7 +42,6 @@ SECTION_ORDER = [
     "pillars",
     "strategy",
     "governance",
-    "worldview",
     "praxis-hub",
     "appendices",
 ]

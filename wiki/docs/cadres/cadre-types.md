@@ -7,7 +7,7 @@
 - Shared Nothing: a cadre that shares no physical resources, a [low-commitment starting point](crisis-continuum.md) like a call tree or social club.
 - Fully Employed: all members work for the cadre full-time in lieu of other employment.
 - Full Employment Seeking: a transitional state working toward full employment.
-- [Full Housing (Seeking)](../governance/housing.md): a cadre where everyone lives in cadre-provided housing, operating like a housing cooperative or land trust.
+- [Full Housing (Seeking)](../strategy/housing.md): a cadre where everyone lives in cadre-provided housing, operating like a housing cooperative or land trust.
 
 ---
 

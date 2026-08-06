@@ -10,4 +10,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Bioregional%20Design)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/worldview/bioregional-design.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Bioregional%20Design)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/strategy/bioregional-design.md)

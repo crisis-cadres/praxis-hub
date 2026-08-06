@@ -4,7 +4,8 @@
 - Individual choices, such as metal straws or going vegan, are worthwhile but woefully inadequate against centuries of industrial destruction.
 - Reversing emissions at scale would require building all existing oil and gas infrastructure in reverse.
 - [Cadres](../cadres/what-is-a-cadre.md) prioritize survivability over sustainability; sustainability emerges naturally from a posture of resilient survivalism.
-- Cadres still champion electrification and large-scale mitigation, but do not assume meaningful global mitigation will be achieved.
+
+It is important to champion mitigation efforts, but at the same time assume global mitigation will not be achieved in any meaningful way.
 
 ---
 

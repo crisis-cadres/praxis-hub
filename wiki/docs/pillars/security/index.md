@@ -5,7 +5,7 @@
 - Core duties include asset protection, [OPSEC](opsec.md), self-defense training, and operational discipline.
 - The emphasis is on deterrence and defense, never offensive force; cadres are not expeditionary raiding forces.
 - Advanced cadres study modern conflicts and harden against real threats while fostering a culture of confident preparedness.
-- Sub-topics: Security Fundamentals, [Defensive Strategy](defensive-strategy.md), [Weapons and Legal Defense](weapons-legal.md), and [OPSEC and Communication Resilience](opsec.md).
+- Sub-topics: Security Fundamentals, [Defensive Strategy](defensive-strategy.md), [Weapons and Legal Defense](weapons-legal.md), [The Corporate Edge](corporate-edge.md), and [OPSEC and Communication Resilience](opsec.md).
 
 ---
 

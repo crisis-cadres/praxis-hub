@@ -8,95 +8,98 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
-  - scheme: slate
-    primary: orange
-    accent: indigo
-    toggle:
-      icon: material/weather-night
-      name: Switch to light mode
-  - scheme: default
-    primary: orange
-    accent: indigo
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to dark mode
+    - scheme: slate
+      primary: orange
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: orange
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
   features:
-  - navigation.top
+    - navigation.top
+    - navigation.indexes
 extra:
   homepage: /
 extra_css:
-- assets/extra.css
+  - assets/extra.css
 nav:
-- Home: index.md
-- The Core Philosophy:
-  - philosophy/index.md
-  - Climate Idealism: philosophy/climate-idealism.md
-  - Cooperation Over Isolation: philosophy/cooperation.md
-  - Existential Dread and Eco-Emotions: philosophy/existential-dread.md
-  - A Realistic Pessimistic Outlook: philosophy/realistic-pessimism.md
-  - From Pessimism to Action: philosophy/pessimism.md
-- Introducing Crisis Cadres:
-  - cadres/index.md
-  - Cadre Types: cadres/cadre-types.md
-  - Political Compartmentalization: cadres/compartmentalization.md
-  - The Crisis Continuum: cadres/crisis-continuum.md
-  - Militant Scientists: cadres/militant-scientists.md
-  - Surplus as Recruitment: cadres/surplus-recruitment.md
-  - What Is a Crisis Cadre: cadres/what-is-a-cadre.md
-- The Four Pillars:
-  - pillars/index.md
-  - Education:
-    - pillars/education/index.md
-    - Essential Skills and Credentialing: pillars/education/credentialing.md
-    - Education Fundamentals: pillars/education/fundamentals.md
-    - Media Narratives and Information Sovereignty: pillars/education/media-narratives.md
-  - Procurement:
-    - pillars/procurement/index.md
-    - The Audit: pillars/procurement/audit.md
-    - Enhanced Financial Strategies: pillars/procurement/financial-strategies.md
-    - Financial Uplifting: pillars/procurement/financial-uplifting.md
-    - Procurement Fundamentals: pillars/procurement/fundamentals.md
+  - Home: index.md
+  - Principles:
+      - philosophy/index.md
+      - Climate Idealism: philosophy/climate-idealism.md
+      - Cooperation Over Isolation: philosophy/cooperation.md
+      - Existential Dread: philosophy/existential-dread.md
+      - The Individualist Illusion: philosophy/individualist-illusion.md
+      - From Pessimism to Action: philosophy/pessimism.md
+      - A Realistic Pessimistic Outlook: philosophy/realistic-pessimism.md
+      - When Empires Fall: philosophy/when-empires-fall.md
+  - Crisis Cadres:
+      - cadres/index.md
+      - Cadre Types: cadres/cadre-types.md
+      - The Crisis Continuum: cadres/crisis-continuum.md
+      - Militant Scientists: cadres/militant-scientists.md
+      - More on Cadres: cadres/what-is-a-cadre.md
+  - The Four Pillars: pillars/index.md
   - Production:
-    - pillars/production/index.md
-    - Automation: pillars/production/automation.md
-    - Energy and Utilities: pillars/production/energy.md
-    - Equipment Fabrication and Restoration: pillars/production/equipment.md
-    - Food Production and Security: pillars/production/food-security.md
-    - Production Fundamentals: pillars/production/fundamentals.md
-    - Medicine and Hygiene: pillars/production/medicine-hygiene.md
-    - The Resilience Premium: pillars/production/resilience-premium.md
+      - pillars/production/index.md
+      - Automation: pillars/production/automation.md
+      - Energy and Utilities: pillars/production/energy.md
+      - Equipment Fabrication and Restoration: pillars/production/equipment.md
+      - Food Production and Security: pillars/production/food-security.md
+      - Production Fundamentals: pillars/production/fundamentals.md
+      - Medicine and Hygiene: pillars/production/medicine-hygiene.md
+      - The Resilience Premium: pillars/production/resilience-premium.md
+  - Procurement:
+      - pillars/procurement/index.md
+      - The Audit: pillars/procurement/audit.md
+      - Enhanced Financial Strategies: pillars/procurement/financial-strategies.md
+      - Financial Uplifting: pillars/procurement/financial-uplifting.md
+      - Procurement Fundamentals: pillars/procurement/fundamentals.md
+  - Education:
+      - pillars/education/index.md
+      - Essential Skills and Credentialing: pillars/education/credentialing.md
+      - Education Fundamentals: pillars/education/fundamentals.md
+      - Media Narratives and Information Sovereignty: pillars/education/media-narratives.md
   - Security:
-    - pillars/security/index.md
-    - Defensive Strategy: pillars/security/defensive-strategy.md
-    - Security Fundamentals: pillars/security/fundamentals.md
-    - OPSEC and Communication Resilience: pillars/security/opsec.md
-    - Weapons and Legal Defense: pillars/security/weapons-legal.md
+      - pillars/security/index.md
+      - The Corporate Edge: pillars/security/corporate-edge.md
+      - Defensive Strategy: pillars/security/defensive-strategy.md
+      - Security Fundamentals: pillars/security/fundamentals.md
+      - OPSEC and Communication Resilience: pillars/security/opsec.md
+      - Weapons and Legal Defense: pillars/security/weapons-legal.md
   - Beyond the Core Four: pillars/beyond-core-four.md
-- Organizational Strategy and Growth:
-  - strategy/index.md
-  - Adding Members: strategy/adding-members.md
-  - 'Praxis 101: The Bulk Buy': strategy/bulk-buy.md
-  - Diversity as a Strategic Imperative: strategy/diversity.md
-  - Dunbar's Number and Scaling: strategy/dunbars-number.md
-  - Early Activities and Shared Concerns: strategy/early-activities.md
-  - Federation and Confederation: strategy/federation.md
-  - From Spark to Flame: strategy/from-spark-to-flame.md
-- Tactics and Governance:
-  - governance/index.md
-  - Bylaws and Operating Agreements: governance/bylaws.md
-  - The Corporate Edge: governance/corporate-edge.md
-  - Governance: governance/framework.md
-  - Housing: governance/housing.md
-  - Subsidiarity: governance/subsidiarity.md
-- Worldview:
-  - worldview/index.md
-  - Bioregional Design: worldview/bioregional-design.md
-  - The Individualist Illusion: worldview/individualist-illusion.md
-  - When Empires Fall: worldview/when-empires-fall.md
-- Praxis Hub: praxis-hub/index.md
-- Appendices:
-  - appendices/index.md
-  - Example Bylaws: appendices/example-bylaws.md
-  - Meeting Templates: appendices/meeting-templates.md
-  - Simplified Robert's Rules: appendices/roberts-rules.md
-- The Authors: salish-sea-cadre.md
+  - Strategy:
+      - strategy/index.md
+      - Getting Started:
+          - From Spark to Flame: strategy/from-spark-to-flame.md
+          - "Praxis 101: The Bulk Buy": strategy/bulk-buy.md
+          - Early Activities and Shared Concerns: strategy/early-activities.md
+      - Scaling and Structure:
+          - Dunbar's Number and Scaling: strategy/dunbars-number.md
+          - Federation and Confederation: strategy/federation.md
+      - Core Disciplines:
+          - Political Compartmentalization: strategy/compartmentalization.md
+          - Diversity as a Strategic Imperative: strategy/diversity.md
+          - Bioregional Design: strategy/bioregional-design.md
+  - Material Foundations:
+      - Housing: strategy/housing.md
+      - Horticulture: strategy/horticulture.md
+      - Surplus as Recruitment: strategy/surplus-recruitment.md
+  - Governance:
+      - governance/index.md
+      - Adding Members: governance/adding-members.md
+      - Bylaws and Operating Agreements: governance/bylaws.md
+      - Governance Framework: governance/framework.md
+      - Subsidiarity: governance/subsidiarity.md
+  - Praxis Hub: praxis-hub/index.md
+  - Appendices:
+      - appendices/index.md
+      - Example Bylaws: appendices/example-bylaws.md
+      - Meeting Templates: appendices/meeting-templates.md
+      - Simplified Robert's Rules: appendices/roberts-rules.md
+  - The Authors: salish-sea-cadre.md

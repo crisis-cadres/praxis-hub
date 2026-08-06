@@ -7,12 +7,11 @@ GitHub Actions.
 ## Pages
 
 - Home — full summary of the Praxis Hub framework
-- The Core Philosophy
+- Principles
 - Introducing Crisis Cadres
 - The Four Pillars (Production, Procurement, Education, Security)
-- Organizational Strategy and Growth
-- Tactics and Governance
-- Worldview
+- Strategy
+- Governance
 - Praxis Hub
 - Appendices
 

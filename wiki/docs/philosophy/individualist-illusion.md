@@ -10,4 +10,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=The%20Individualist%20Illusion)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/worldview/individualist-illusion.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=The%20Individualist%20Illusion)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/philosophy/individualist-illusion.md)
