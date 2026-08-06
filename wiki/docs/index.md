@@ -1,6 +1,6 @@
 # Crisis Cadres
 
-## From shared anxiety into shared action.
+## From shared anxiety into shared action
 
 Crisis Cadres is an open-source playbook for community resilience. We take a realistic, pessimistic view of climate and societal collapse and turn it into pragmatic, local action. Small, committed groups called cadres build self-sufficiency through committees focused on production, procurement, education, and security.
 
