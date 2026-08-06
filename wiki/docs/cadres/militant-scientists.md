@@ -7,7 +7,7 @@
 - Militant Science is a union of rigor and resilience: evidence is sovereign and irrationality is excluded.
 - Evidence hierarchy: peer-reviewed data first, then empirical observation, then provisional expert consensus; speculation and tradition carry little weight.
 - Members may hold personal beliefs, but all cadre-level decisions must be based on testable, evidence-based principles.
-- A cadre that is a monoculture of thought is scientifically weak; [diversity of perspective](../strategy/diversity.md) is required for rigor.
+- A cadre that is a monoculture of thought is scientifically weak; [diversity of perspective](../culture/diversity.md) is required for rigor.
 
 ## References
 

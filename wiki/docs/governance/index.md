@@ -2,7 +2,7 @@
 
 - Governance must be both participatory and decisive, transparent and efficient, avoiding the extremes of bureaucracy and autocracy.
 - Representative government fails through corruption, and pure consensus fails through endless process; cadres strike a balance.
-- Use [committee-based representatives](../pillars/index.md) while keeping the group under [Dunbar's number](../strategy/dunbars-number.md) for agility.
+- Use [committee-based representatives](../pillars/index.md) while keeping the group under [Dunbar's number](../culture/dunbars-number.md) for agility.
 - [Sortition, recallability](framework.md), [Robert's Rules](../appendices/roberts-rules.md), and [bylaws](bylaws.md) prevent the concentration of power.
 - [Subsidiarity](subsidiarity.md) and [democratic centralism](framework.md) keep decisions local yet unified once made.
 - [Adding members](adding-members.md) is governed by sponsorship, vetting, voting thresholds, and probation, with removal easier than admission.

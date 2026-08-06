@@ -40,7 +40,13 @@ SECTION_ORDER = [
     "philosophy",
     "cadres",
     "pillars",
+    "procurement",
+    "production",
+    "education",
+    "security",
+    "beyond-core-four",
     "strategy",
+    "culture",
     "governance",
     "praxis-hub",
     "appendices",
@@ -96,10 +102,12 @@ def build_section(docs_dir, rel_dir):
         if sub:
             children.append(("section", sub))
 
-    for filename in sorted(
-        f for f in os.listdir(dir_path)
+    filenames = [
+        f
+        for f in sorted(os.listdir(dir_path))
         if f.endswith(".md") and f != "index.md"
-    ):
+    ]
+    for filename in filenames:
         rel = os.path.join(rel_dir, filename[: -len(".md")])
         if rel in NAV_EXCLUDED:
             continue

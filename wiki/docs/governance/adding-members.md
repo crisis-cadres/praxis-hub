@@ -7,7 +7,7 @@
 - Make it easier to remove a member than to admit one, echoing the principle of recallability.
 - Probationary periods give prospective members a trial membership and a chance to contribute.
 - Make prospective members feel welcome and [integrate them into active projects](../appendices/meeting-templates.md) immediately.
-- [Diversity](diversity.md) is non-negotiable when adding members.
+- [Diversity](../culture/diversity.md) is non-negotiable when adding members.
 
 ---
 

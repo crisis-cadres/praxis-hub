@@ -6,7 +6,7 @@
 - Start small and build trust through low-stakes wins like a [bulk order](bulk-buy.md) or group meetup.
 - Formalize light structure around the [Four Pillars](../pillars/index.md) without soul-crushing bureaucracy.
 - Build culture deliberately: rituals, recognition, and nimble decision-making keep a group alive.
-- Keep under the [magic 150](dunbars-number.md) and [spin off new cadres](federation.md) to grow without losing your soul.
+- Keep under the [magic 150](../culture/dunbars-number.md) and [spin off new cadres](../governance/federation.md) to grow without losing your soul.
 
 ---
 

@@ -10,7 +10,7 @@
 ---
 
 - The [source code](https://github.com/crisis-cadres/praxis-hub/tree/main/wiki) lives in the repository's `wiki/` directory and is built with MkDocs.
-- The [Code of Conduct](https://github.com/crisis-cadres/praxis-hub/blob/main/CODE_OF_CONDUCT.md) keeps collaboration disciplined and mission-focused, with [political compartmentalization](../strategy/compartmentalization.md) and no personal attacks.
+- The [Code of Conduct](https://github.com/crisis-cadres/praxis-hub/blob/main/CODE_OF_CONDUCT.md) keeps collaboration disciplined and mission-focused, with [political compartmentalization](../culture/compartmentalization.md) and no personal attacks.
 - The work is published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ---

@@ -4,7 +4,7 @@
 - Bylaws can spell out [adding members](adding-members.md), handling departures, creating committees, and any other rules the group chooses.
 - When in doubt, bylaws can state that meetings follow a specific edition of [Robert's Rules](../appendices/roberts-rules.md).
 - Operating agreements are always considered private and need not be published, unlike bylaws in certain jurisdictions.
-- Operating agreements are beneficial for cadres following [The Corporate Edge](../pillars/security/corporate-edge.md).
+- Operating agreements are beneficial for cadres following [The Corporate Edge](../security/corporate-edge.md).
 - Use concise editions of [Robert's Rules](../appendices/roberts-rules.md) and the [meeting templates](../appendices/meeting-templates.md) to keep procedures efficient.
 - See the [Example Bylaws](../appendices/example-bylaws.md) appendix for a model charter adaptable to your cadre.
 

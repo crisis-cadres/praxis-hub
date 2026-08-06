@@ -1,6 +1,6 @@
 # The Four Pillars
 
-- The Four Pillars are the core committees: [Production](production/index.md), [Procurement](procurement/index.md), [Education](education/index.md), and [Security](security/index.md).
+- The Four Pillars are the core committees: [Production](../production/index.md), [Procurement](../procurement/index.md), [Education](../education/index.md), and [Security](../security/index.md).
 - Committee-based governance brings task specialization and decentralized decision-making without bureaucratic inertia.
 - Production creates essential goods, Procurement manages resource flows, Education cultivates skills, and Security protects the endeavor.
 - When approaching a new problem, repeat the mantra: "Have we considered everything through the lens of Production, Procurement, Education, and Security?"
