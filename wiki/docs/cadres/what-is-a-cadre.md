@@ -11,4 +11,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=What%20Is%20a%20Crisis%20Cadre)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/cadres/what-is-a-cadre.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=More%20on%20Cadres)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/cadres/what-is-a-cadre.md)

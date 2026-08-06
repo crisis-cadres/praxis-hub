@@ -178,7 +178,15 @@ def homepage_links(body, rel_dir):
 
 
 def build_index(top, standalone):
-    lines = ["# Crisis Cadres\n"]
+    lines = [
+        "# Crisis Cadres\n",
+        "## From shared anxiety into shared action.\n",
+        "Crisis Cadres is an open-source playbook for community resilience. We take a "
+        "realistic, pessimistic view of climate and societal collapse and turn it into "
+        "pragmatic, local action. Small, committed groups called cadres build "
+        "self-sufficiency through committees focused on production, procurement, "
+        "education, and security.\n",
+    ]
     for kind, node in top:
         if kind == "section":
             idx = node["index"]

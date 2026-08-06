@@ -15,4 +15,4 @@
 
 ---
 
-**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Existential%20Dread%20and%20Eco-Emotions)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/philosophy/existential-dread.md)
+**[Start a discussion](https://github.com/crisis-cadres/praxis-hub/issues/new?title=Existential%20Dread)** · [View discussions](https://github.com/crisis-cadres/praxis-hub/issues) · [Edit this page](https://github.com/crisis-cadres/praxis-hub/edit/main/wiki/docs/philosophy/existential-dread.md)
