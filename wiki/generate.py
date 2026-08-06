@@ -30,6 +30,10 @@ FOOTER_START = "\n---\n\n**[Start a discussion]("
 # assembled homepage (e.g. "The Authors").
 HOME_EXCLUDED = {"salish-sea-cadre"}
 
+# Top-level sections whose index body is embedded on the homepage. Sections not
+# listed here still appear in the sidebar nav but not on the homepage.
+HOME_SECTIONS = {"cadres"}
+
 # Pages to keep in docs/ (with footers) but hide from the sidebar nav.
 # Remove a slug from this set to reveal the page again.
 NAV_EXCLUDED = set()
@@ -188,7 +192,7 @@ def homepage_links(body, rel_dir):
 def build_index(top, standalone):
     lines = [
         "# Crisis Cadres\n",
-        "## From shared anxiety into shared action.\n",
+        "## From shared anxiety into shared action\n",
         "Crisis Cadres is an open-source playbook for community resilience. We take a "
         "realistic, pessimistic view of climate and societal collapse and turn it into "
         "pragmatic, local action. Small, committed groups called cadres build "
@@ -197,14 +201,11 @@ def build_index(top, standalone):
     ]
     for kind, node in top:
         if kind == "section":
+            if node["rel_dir"] not in HOME_SECTIONS:
+                continue
             idx = node["index"]
             lines.append(f"## [{idx['title']}]({idx['rel_path']}.md)\n")
             lines.append(homepage_links(idx["body"], node["rel_dir"]))
-        else:
-            if node["rel_path"] in HOME_EXCLUDED:
-                continue
-            lines.append(f"## [{node['title']}]({node['rel_path']}.md)\n")
-            lines.append(node["body"])
         lines.append("")
     return "\n".join(lines).rstrip() + footer("Crisis Cadres", "index")
 
