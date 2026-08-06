@@ -1,6 +1,6 @@
 # Subsidiarity
 
-- Decisions should be made at the lowest competent and practical level, by those most directly affected by and knowledgeable about an issue.
+- Decisions should be made at the lowest competent and practical level, by those most directly affected by the decision and most knowledgeable about the issue.
 - Local knowledge leads to better solutions; a [production committee](../production/index.md) understands its challenges better than a centralized council.
 - Empowering local committees prevents every minor action from passing through slow layers of approval.
 - Decentralization fosters ownership and accountability among those who shape the decisions that affect them.

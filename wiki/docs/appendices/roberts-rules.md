@@ -6,7 +6,7 @@
 - Standard agenda: call to order, minutes, reports, unfinished business, new business, announcements, and adjournment.
 - Motions follow a clear path: move, second, state, debate, vote, announce.
 - Common motions: main motion, amendment, point of order, appeal, table, and adjourn.
-- A majority vote decides most issues; a two-thirds vote is required for major changes such as [amending bylaws](../governance/bylaws.md).<sup>[\[1\]](#cite-1)</sup><sup>[\[2\]](#cite-2)</sup>
+- A majority vote decides most issues; a two-thirds vote (or a majority with prior notice) is typically required for major changes such as [amending bylaws](../governance/bylaws.md).<sup>[\[1\]](#cite-1)</sup><sup>[\[2\]](#cite-2)</sup>
 
 ## References
 

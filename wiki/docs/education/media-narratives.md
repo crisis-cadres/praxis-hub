@@ -1,6 +1,6 @@
 # Media Narratives and Information Sovereignty
 
-- Journalists hunt for spectacle, clickbait, and profitable headlines; their motivations almost never align with the cadres.
+- Journalists hunt for spectacle, clickbait, and profitable headlines; their motivations almost never align with the cadre's goals.
 - The default position with respect to the media should be silence.
 - Route questions through controlled channels, answered only in formats the cadre dictates.
 - Interviews should be rare and only through elected spokespeople trained in deflection and steering conversations back to solid ground.

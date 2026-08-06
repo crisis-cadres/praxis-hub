@@ -3,11 +3,9 @@
 - A cadre is a highly trained individual or a tightly coordinated group enabling resilient local action.
 - Cadres display leadership, expertise, situational awareness, and the discipline to stay composed in emergencies.
 - The core question of a Crisis Cadre: what are the most likely problems we will encounter, and what actions most increase group resilience against them?
-- Crisis Cadres are egalitarian enterprises that are united, productive, and ever-adapting to overcome adversity.
+- Crisis Cadres are egalitarian enterprises that are united, productive, and ever-adaptable to overcome adversity.
 
----
-
-<em>"Cadre" traditionally means a key individual or a trained core group; Crisis Cadres use the term for both, with context clarifying the meaning.</em>
+*"Cadre" traditionally means a key individual or a trained core group; Crisis Cadres use the term for both, with context clarifying the meaning.*
 
 ---
 

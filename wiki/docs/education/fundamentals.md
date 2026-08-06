@@ -6,7 +6,7 @@
 - Outreach is traditional "marketing": public workshops spread knowledge and double as talent scouting for new members.
 - Maintain a secure, self-hosted "Praxis Hub" for documents, remote meetings, and coordination.
 - Prevent knowledge hoarding through mentorship, peer-to-peer teaching, and inter-committee skill sharing.
-- Rotate positions and share information across all roles, so balanced jobs prevent a permanent underclass and redundancy ensures no skill is lost.
+- Rotate positions and share information across all roles, so fairly distributed responsibilities prevent a permanent underclass and redundancy ensures no skill is lost.
 
 ---
 

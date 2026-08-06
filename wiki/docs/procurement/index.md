@@ -5,7 +5,7 @@
 - Core duties include buying plans, purchasing, taxes, supplier management, inventory tracking, budgeting, compliance, logistics, and resource sharing.
 - [The audit](audit.md) is a core function that shifts Procurement from a passive buyer into an architect of resilience.
 - [Financial uplifting](financial-uplifting.md) and [enhanced financial strategies](financial-strategies.md) build a cadre wealth fund while raising the security of its most vulnerable members.
-- Sub-topics: Procurement Fundamentals, [The Audit](audit.md), [Financial Uplifting](financial-uplifting.md), and [Enhanced Financial Strategies](financial-strategies.md).
+- Sub-topics: [Procurement Fundamentals](fundamentals.md), [The Audit](audit.md), [Financial Uplifting](financial-uplifting.md), and [Enhanced Financial Strategies](financial-strategies.md).
 
 ---
 

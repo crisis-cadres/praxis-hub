@@ -1,7 +1,7 @@
 # Essential Skills and Credentialing
 
 - The true currency of resilience is demonstrable, practiced mastery, not abstract knowledge or superficial familiarity.
-- Traditional merit badges reward effort and participation over real expertise, which is dangerously insufficient for adult cadres.
+- Traditional merit badges reward effort and participation rather than real expertise, an approach that is dangerously insufficient for adult cadres.
 - A cadre credentialing system must verify proven competence under real-world conditions.
 - Credentials require consistent, reliable performance over seasons or project cycles, not a single attempt.
 - Mastery includes the ability to teach and mentor others, ensuring skills become part of collective capacity.

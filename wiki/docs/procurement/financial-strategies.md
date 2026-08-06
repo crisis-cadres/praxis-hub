@@ -3,7 +3,7 @@
 - Invest idle cadre funds in safe options like short-term bonds to preserve capital and earn a modest yield, the seed of a sovereign wealth fund.
 - Borrow against collective assets such as real estate or equipment to fund large projects or bridge cash flow gaps.
 - Establish structured internal lending for member needs, complemented by local currencies or time banks.
-- Minimize taxes through strategic planning, write-offs, and member education delivered with [Education](../education/index.md).
+- Minimize taxes through strategic planning, write-offs, and member education delivered in partnership with [Education](../education/index.md).
 - Acquire grants for climate resilience projects, such as solar microgrids and rainwater harvesting, to leapfrog financial constraints.
 
 ---

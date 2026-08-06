@@ -1,7 +1,7 @@
 # Procurement Fundamentals
 
 - Procurement transforms scarcity into strategic advantages and logistical hurdles into opportunities for connection.
-- Buying plans for beneficial goods are proposed and voted on by the cadre, ensuring collective oversight and preventing wasteful spending.
+- Buying plans are proposed and voted on by the cadre, ensuring collective oversight and preventing wasteful spending.
 - All purchases flow through Procurement unless another committee is explicitly authorized for special cases.
 - Maintain a vetted supplier database evaluated on reliability, ethics, and backup options.
 - Track inventory in real time, anticipating needs and managing discreet, decentralized caches of critical supplies.

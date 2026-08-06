@@ -6,7 +6,7 @@
 - A corporate framework provides built-in stability: bank accounts, contracts, supply chains, and durable legal existence.
 - Structure acts as armor, outlasting individuals and [compartmentalizing operations](../culture/compartmentalization.md) so no single member holds all threads.
 - Preferred sectors include disaster recovery, waste management, agriculture, renewable energy, and medical supplies.
-- Prefer an LLC or corporation over a co-op or non-profit, operating cooperatively through a private [operating agreement](../governance/bylaws.md) with temporary appointed figureheads.
+- Prefer an LLC or corporation over a co-op or non-profit, operating cooperatively through a private [operating agreement](../governance/bylaws.md) with temporary, appointed figureheads.
 
 ---
 

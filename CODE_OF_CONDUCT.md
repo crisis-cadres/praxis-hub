@@ -14,7 +14,7 @@ Contributions — issues, discussions, and pull requests — should be:
 - **Mission-focused.** Ask the guiding question before you post: does this
   directly inform a practical resilience strategy? If not, it does not belong
   in the discussion.
-- **Compartimentalized.** Keep culture-war debates, partisan noise, and
+- **Compartmentalized.** Keep culture-war debates, partisan noise, and
   irrelevant historical disputes out. The work of building self-sufficient
   communities remains deeply political; the framing does not need to be
   partisan.

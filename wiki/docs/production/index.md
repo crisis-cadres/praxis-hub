@@ -5,7 +5,7 @@
 - "Appropriate Production" means making what is needed, with what is available, without waste, prioritizing low-energy, small-scale output.
 - Production exists on a continuum, from mending clothes and growing herbs to a full-employment, self-sustaining economy.
 - A cadre that produces a [surplus to share transforms resilience into recruitment](../culture/surplus-recruitment.md) and economic leverage.
-- Sub-topics: Production Fundamentals, [Food Production and Security](food-security.md), [Equipment Fabrication and Restoration](equipment.md), [Energy and Utilities](energy.md), [Medicine and Hygiene](medicine-hygiene.md), [Automation](automation.md), and [The Resilience Premium](resilience-premium.md).
+- Sub-topics: [Production Fundamentals](fundamentals.md), [Food Production and Security](food-security.md), [Equipment Fabrication and Restoration](equipment.md), [Energy and Utilities](energy.md), [Medicine and Hygiene](medicine-hygiene.md), [Automation](automation.md), and [The Resilience Premium](resilience-premium.md).
 
 ---
 

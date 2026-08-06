@@ -8,7 +8,7 @@
 - Plan for every easily extractable drop of oil to be consumed, and for "successful" mitigations and efficiency gains to be undone or absorbed.
 - Well-meaning climate-concerned groups waste energy on weak actions like awareness-raising protests and small personal gestures.
 - Individual choices, such as metal straws or going vegan, are worthwhile but woefully inadequate against centuries of industrial destruction.
-- Reversing emissions at scale would require building all existing oil and gas infrastructure in reverse.
+- Reversing emissions at scale would require dismantling every existing oil and gas facility and replacing it with carbon-removal capacity.
 
 It is important to champion electrification and large-scale mitigation efforts, but also, assume global mitigation will not be achieved in any meaningful way.
 

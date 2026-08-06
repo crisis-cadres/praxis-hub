@@ -1,6 +1,6 @@
 # Automation
 
-- Do not dismiss AI and robotics; natural human language can now command real-world actions from machines, revitalizing robotics.
+- Do not dismiss AI and robotics; natural human language can now command real-world actions from machines, breathing new life into robotics.
 - Open-source models and affordable hardware make capable automation increasingly accessible to serious organized groups.
 - A robot working around the clock is a force multiplier for weeding, planting, harvesting, patrolling, and repair.
 - Small groups can achieve high self-sufficiency and decouple from fragile supply chains without soul-crushing labor.

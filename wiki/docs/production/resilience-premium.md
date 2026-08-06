@@ -4,7 +4,7 @@
 - The products of resilience do not need to compete with products sold on global markets.
 - Any difference in price can be considered a resilience premium: the value of local availability when you need something in times of scarcity.
 - Resilience can be built as a vocation or side project, free of the constraints of profitability.
-- There may be times funds are absolutely needed to keep operations going, but there are times when resilience is its own reward.
+- Funds may sometimes be needed to keep operations going, but at other times resilience is its own reward.
 - [Production](index.md) is the antidote to dependency: the steady act of making sure that when external systems fail, the cadre does not.
 
 ---

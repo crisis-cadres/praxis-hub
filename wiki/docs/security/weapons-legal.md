@@ -5,7 +5,7 @@
 - De-escalation is always the primary goal.
 - Statistically, firearms are much more likely to cause harm to the owner than provide protection, especially in high-stress situations.
 - Maintain an armory under lock and key, with access scaled to the situation along the [crisis continuum](../cadres/crisis-continuum.md).
-- Armory operation and maintenance is an instrumental goal for Security.
+- Running and maintaining the armory is a core responsibility of Security.
 
 ---
 

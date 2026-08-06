@@ -1,7 +1,7 @@
 # When Empires Fall
 
 - Civilizations rise, flourish, decline, and collapse in recurring cycles through human history.
-- Imperial collapse is not an unmitigated catastrophe; it can bring liberation for the enslaved, heavily taxed, and colonized.
+- Imperial collapse is rarely an unmitigated catastrophe; it can bring liberation for the enslaved, heavily taxed, and colonized.
 - From Rome to the Maya to colonial powers, collapse often produces more decentralized, egalitarian social forms.
 - Collapse redistributes suffering and opportunity unevenly, and those aligned with the old power structure face dispossession.
 - [Cadres](../cadres/what-is-a-cadre.md) should prepare to weather short-term chaos while positioning themselves to shape a more equitable successor society.
