@@ -1,4 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee&family=Geologica:wght@600&family=Karla:wght@400;500;700&display=swap");
+
 [data-md-color-scheme="default"],
 [data-md-color-scheme="slate"] {
   --md-accent-fg-color: #005ce6;
+}
+
+:root {
+  --md-text-font: "Karla";
+}
+
+.md-typeset {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+}
+
+/* Headers: Bungee for h1/h2 */
+.md-typeset h1,
+.md-typeset h2 {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+}
+.md-typeset h1 {
+  font-size: 52px;
+}
+.md-typeset h2 {
+  font-size: 40px;
+}
+
+/* Subheaders/titles: Geologica semibold for h3-h6 */
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: "Geologica", sans-serif;
+  font-weight: 600;
+}
+.md-typeset h3 {
+  font-size: 34px;
+}
+.md-typeset h4 {
+  font-size: 28px;
+}
+.md-typeset h5 {
+  font-size: 24px;
+}
+.md-typeset h6 {
+  font-size: 20px;
 }
