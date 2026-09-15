@@ -40,6 +40,13 @@
   font-weight: 400;
 }
 
+/* Hide the sidebar site-name title on large screens */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+}
+
 /* Navigation chapter titles: Geologica semibold */
 .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
 .md-nav__title[for^="__nav_"] {
