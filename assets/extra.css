@@ -28,6 +28,25 @@
   font-size: 30px;
 }
 
+/* Site/page title in the top header bar */
+.md-header__title {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+}
+
+/* Navigation panel title (site name) */
+.md-nav__title {
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+}
+
+/* Navigation chapter titles: Geologica semibold */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+.md-nav__title[for^="__nav_"] {
+  font-family: "Geologica", sans-serif;
+  font-weight: 600;
+}
+
 /* Subheaders/titles: Geologica semibold for h3-h6 */
 .md-typeset h3,
 .md-typeset h4,
@@ -47,4 +66,9 @@
 }
 .md-typeset h6 {
   font-size: 17px;
+}
+
+/* Bullet points: small blue diamond */
+.md-typeset ul > li::marker {
+  content: "🔸 ";
 }
